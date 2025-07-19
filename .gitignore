@@ -35,3 +35,4 @@ trivy_report*
 compiled
 jest.config.js
 packages/cli/src/modules/my-feature
+packages/frontend/@n8n/i18n/src/locales/.i18n.cache
